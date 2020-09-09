@@ -1,0 +1,25 @@
+
+.form_container{
+    margin: 0 35%;
+}
+form{
+    border: 3px solid rgb(138, 167, 247);
+    border-radius: 5px;
+    background-color: rgb(241, 246, 252);
+    max-width: 450px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around; 
+}
+
+form h3{
+    text-align: center;
+}
+
+span{
+    font-size: 12px;
+    color: red;
+}
+
+
